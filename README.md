@@ -1,0 +1,4 @@
+- 👋 Olá, me chmao Alexandre Lins
+- 👀 Desde o momento que entendi o conceito de programação, tive a vontade de aprender mais.
+- 🌱 No momento eu faço o curso tecnico em Desenvolvimento de sistemas.
+- 💞️ Estou aqui para ajudar e aprender com todos!<3
